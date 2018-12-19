@@ -39,7 +39,7 @@ function display_help_exit {
 	echo " -e sep"
 	echo "	      optional, 'sep' is the separator between columns in the input file, default is white space"
 	echo "        which is '' (i.e. nothing in between the quotes)"
-	echp " -N value_to_replace_NA_with : specify a value to replace all instances of NA in the input file."
+	echo " -N value_to_replace_NA_with : specify a value to replace all instances of NA in the input file."
 	echo " -R filename"
 	echo "	      specify the name of the file to contain the R script to execute (because this bash file"
 	echo "	      creates an R script which then runs)"
