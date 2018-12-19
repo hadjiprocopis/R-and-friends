@@ -1,0 +1,9 @@
+ABOUT-NLS
+config.*
+.libs/
+.deps/
+*.a
+*.o
+*.so.*
+*.la
+*.in
